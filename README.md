@@ -122,6 +122,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [proxify](https://github.com/projectdiscovery/proxify) | Swiss-army-knife HTTP/HTTPS proxy for capture & tampering. |
 | [axiom](https://github.com/pry0cc/axiom) | Dynamic distributed-scanning infrastructure ("attack fleet"). |
 | [ax](https://github.com/attacksurge/ax) | Maintained fork/evolution of Axiom for distributed scanning. |
+| [nmap](https://github.com/nmap/nmap) | Network Discovery, Scanning, and Security Auditing. |       
 | Netcat | The classic TCP/IP "swiss-army knife" for reading/writing across connections. |
 
 ### HTTP Probing / Crawling / Content Discovery
