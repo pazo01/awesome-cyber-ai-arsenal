@@ -193,9 +193,12 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [webanalyze](https://github.com/rverton/webanalyze) | Technology detection (Wappalyzer-style) at scale. |
 | [WAD](https://github.com/CERN-CERT/WAD) | Web application detector (fingerprinting). |
 | [RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) | Curated set of red-team tools & resources. |
-| [Aghast](https://github.com/owasp-aghast/aghast) | OWASP scanner for common web issues. |
+| [Aghast](https://github.com/owasp-aghast/aghast) | OWASP scanner for common web issues. | 
+| [Caido](https://github.com/caido/caido/tree/main) | A web security platform for auditing and testing web applications efficiently. |
+| [PlayWright](https://github.com/microsoft/playwright) | A framework for automating and testing web applications across all major browsers. |  
 
-### Injection — SQL / NoSQL / Command / SSTI / LFI
+
+### Injection — SQL / NoSQL / Command / SSTI / LFI 
 
 | Tool | Description |
 | --- | --- |
@@ -378,6 +381,9 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Nebula](https://github.com/berylliumsec/nebula) | AI-assisted pentest assistant that suggests & runs commands. |
 | [hermes-agent](https://github.com/NousResearch/Hermes-Function-Calling) | Function-calling agent scaffolding (Nous Research). |
 | [Colibri](https://github.com/JustVugg/colibri) | Lightweight AI security agent. |
+| [Page Index](https://github.com/VectifyAI/PageIndex) | RAG system that analyzes documents without chunks or vector databases | 
+| [Lite LLM](https://github.com/BerriAI/litellm) | A unified AI gateway for accessing and managing 100+ LLM providers through one API. | 
+
 
 ### LLM Red Teaming & Vulnerability Scanning
 
