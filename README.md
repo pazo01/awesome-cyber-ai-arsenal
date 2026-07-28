@@ -110,6 +110,8 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [uncover](https://github.com/projectdiscovery/uncover) | Query Shodan/Censys/Fofa for exposed hosts. |
 | [csprecon](https://github.com/edoardottt/csprecon) | Discover domains from Content-Security-Policy headers. |
 | [favirecon](https://github.com/edoardottt/favirecon) | Fingerprint tech via favicon hashes. |
+| [BBOT](https://github.com/blacklanternsecurity/bbot) | Automated reconnaissance scanner |
+| [CloudFox](https://github.com/BishopFox/cloudfox) | Cloud enumeration and attack-path discovery tool. |
 
 ### Port Scanning & Network
 
@@ -124,6 +126,8 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [ax](https://github.com/attacksurge/ax) | Maintained fork/evolution of Axiom for distributed scanning. |
 | [nmap](https://github.com/nmap/nmap) | Network Discovery, Scanning, and Security Auditing. |       
 | Netcat | The classic TCP/IP "swiss-army knife" for reading/writing across connections. |
+
+
 
 ### HTTP Probing / Crawling / Content Discovery
 
@@ -313,7 +317,20 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [interactsh](https://github.com/projectdiscovery/interactsh) | OOB interaction-gathering server & client. |
 | [dnsobserver](https://github.com/allyomalley/dnsobserver) | Helper DNS server to detect OOB/DNS interactions. |
 
+
+
+### Phishing
+
+| Tool | Description |
+| --- | --- |
+| [Evilginx 3.0](https://github.com/kgretzky/evilginx2) | A phishing simulation and two-factor authentication bypass framework, intended only for authorized security testing. |
+| [SET](https://github.com/trustedsec/social-engineer-toolkit) | Social-engineering attack simulation toolkit. |
+
+
 ---
+
+
+
 
 ## 🔵 Defensive Security (Blue Team / DevSecOps)
 
@@ -444,6 +461,8 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Maltego](https://www.maltego.com/) | Link-analysis & graph OSINT platform. |
 | [Hunchly](https://hunch.ly/) | Web-capture tool for OSINT investigations. |
 | [IntelX](https://intelx.io/) | Search engine & data archive for OSINT. |
+| [Recon-ng](https://github.com/lanmaster53/recon-ng) | Web-based OSINT reconnaissance framework. |
+
 
 ---
 
