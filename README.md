@@ -508,6 +508,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [MITRE ATT&CK](https://attack.mitre.org/) | Global knowledge base of adversary tactics & techniques. |
 | [OWASP](https://owasp.org/) | Foundation for web/app security standards & projects. |
 | [PortSwigger Web Security Academy](https://portswigger.net/web-security/all-topics) | Free, hands-on web-security training. |
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Open source (GPL-3.0) autonomous AI pentest platform for web, API, Active Directory and Kubernetes, running as an MCP host with a local privacy gateway. |
 | [ProjectDiscovery](https://github.com/projectdiscovery) | Home of subfinder/httpx/nuclei & the recon ecosystem. |
 | [Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) | Huge handbook of techniques, tools & notes. |
 | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Reverse-engineering & pentest skill notes. |
