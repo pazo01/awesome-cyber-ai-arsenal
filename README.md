@@ -322,7 +322,6 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 
 | Tool | Description |
 | --- | --- |
-| [Evilginx 3.0](https://github.com/kgretzky/evilginx2) | A phishing simulation and two-factor authentication bypass framework, intended only for authorized security testing. |
 | [SET](https://github.com/trustedsec/social-engineer-toolkit) | Social-engineering attack simulation toolkit. |
 
 
