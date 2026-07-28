@@ -461,8 +461,8 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Maltego](https://www.maltego.com/) | Link-analysis & graph OSINT platform. |
 | [Hunchly](https://hunch.ly/) | Web-capture tool for OSINT investigations. |
 | [IntelX](https://intelx.io/) | Search engine & data archive for OSINT. |
-| [Recon-ng](https://github.com/lanmaster53/recon-ng) | Web-based OSINT reconnaissance framework. |
-| [GhostTrack](https://github.com/HunxByts/GhostTrack) | OSINT lookup for IPs, phone numbers, usernames, and approximate locations. | 
+
+
 
 
 
