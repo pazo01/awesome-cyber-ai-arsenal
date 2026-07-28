@@ -433,6 +433,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Huihui-GLM abliterated](https://huggingface.co/huihui-ai) | Abliterated / uncensored GLM model weights (GGUF). |
 
 ### AI Security Frameworks & Knowledge
+| [Gracestack Bride](https://tools.gracestack.se/ask.html) | Cognitive AI agent with anomaly detection, HD computing, and Active Inference — ask Bride to analyze security patterns, detect threats, or probe AI reasoning. Includes free API. |
 
 | Resource | Description |
 | --- | --- |
