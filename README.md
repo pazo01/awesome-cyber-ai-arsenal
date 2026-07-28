@@ -110,7 +110,6 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [uncover](https://github.com/projectdiscovery/uncover) | Query Shodan/Censys/Fofa for exposed hosts. |
 | [csprecon](https://github.com/edoardottt/csprecon) | Discover domains from Content-Security-Policy headers. |
 | [favirecon](https://github.com/edoardottt/favirecon) | Fingerprint tech via favicon hashes. |
-| [BBOT](https://github.com/blacklanternsecurity/bbot) | Automated reconnaissance scanner |
 | [CloudFox](https://github.com/BishopFox/cloudfox) | Cloud enumeration and attack-path discovery tool. |
 
 ### Port Scanning & Network
