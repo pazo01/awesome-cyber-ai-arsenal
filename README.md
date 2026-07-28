@@ -398,6 +398,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Nebula](https://github.com/berylliumsec/nebula) | AI-assisted pentest assistant that suggests & runs commands. |
 | [hermes-agent](https://github.com/NousResearch/Hermes-Function-Calling) | Function-calling agent scaffolding (Nous Research). |
 | [Colibri](https://github.com/JustVugg/colibri) | Lightweight AI security agent. |
+| [Bride](https://tools.gracestack.se/ask.html) | Cognitive AI agent with HD computing, Active Inference & real-time anomaly detection. Free API. |
 | [Page Index](https://github.com/VectifyAI/PageIndex) | RAG system that analyzes documents without chunks or vector databases | 
 | [Lite LLM](https://github.com/BerriAI/litellm) | A unified AI gateway for accessing and managing 100+ LLM providers through one API. | 
 
