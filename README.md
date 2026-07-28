@@ -539,3 +539,7 @@ This repository is provided for **educational purposes and authorized security t
 ## 📄 License
 
 Distributed under the [MIT License](LICENSE). The listed tools remain the property of their respective owners and are governed by their own licenses.
+
+### AI Fashion Design
+
+- **[STIL.AI](https://tools.gracestack.se/designa-klader.html)** — Generate unique AI fashion designs from text descriptions. GPT Image 2, 9 kr per design (Klarna), free API access.
