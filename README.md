@@ -459,6 +459,10 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Maltego](https://www.maltego.com/) | Link-analysis & graph OSINT platform. |
 | [Hunchly](https://hunch.ly/) | Web-capture tool for OSINT investigations. |
 | [IntelX](https://intelx.io/) | Search engine & data archive for OSINT. |
+| [BrixHub](https://brixhub.cc/) | Search engine for finding public information quickly.|
+| [seeKnow](https://see-know.ru/) | Powerful OSINT tool for searching breach data and online information. |
+
+
 
 
 
