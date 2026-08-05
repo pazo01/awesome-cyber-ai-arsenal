@@ -397,7 +397,8 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [hermes-agent](https://github.com/NousResearch/Hermes-Function-Calling) | Function-calling agent scaffolding (Nous Research). |
 | [Colibri](https://github.com/JustVugg/colibri) | Lightweight AI security agent. |
 | [Page Index](https://github.com/VectifyAI/PageIndex) | RAG system that analyzes documents without chunks or vector databases | 
-| [Lite LLM](https://github.com/BerriAI/litellm) | A unified AI gateway for accessing and managing 100+ LLM providers through one API. | 
+| [Lite LLM](https://github.com/BerriAI/litellm) | A unified AI gateway for accessing and managing 100+ LLM providers through one API. |
+| [Anthropic-cybersecurity-skills](https://github.com/mukul975/anthropic-cybersecurity-skills) | Cybersecurity skills for Claude and other AI agents. | 
 
 
 ### LLM Red Teaming & Vulnerability Scanning
