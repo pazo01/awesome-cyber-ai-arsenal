@@ -412,6 +412,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [agentic_security](https://github.com/msoedov/agentic_security) | Open-source LLM/agent vulnerability scanner. |
 | [agentic-radar](https://github.com/splx-ai/agentic-radar) | Static analysis of agent workflows for excessive-agency risk. |
 | [Garak probes / MITRE ATLAS](https://atlas.mitre.org/) | Adversarial-threat landscape for AI systems. |
+| [Claude-bughunter](https://github.com/elementalsouls/Claude-BugHunter/tree/main) | Red-Team skills for Claude and other AI agents to perform in Bug Bounty |
 
 ### LLM Defense / Guardrails
 
