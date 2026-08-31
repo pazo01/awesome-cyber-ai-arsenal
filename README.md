@@ -462,6 +462,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Hunchly](https://hunch.ly/) | Web-capture tool for OSINT investigations. |
 | [IntelX](https://intelx.io/) | Search engine & data archive for OSINT. |
 | [BrixHub](https://brixhub.cc/) | Search engine for finding public information quickly.|
+| [PimEyes](https://pimeyes.com/en) | Face Search And Reverse Image Search Engine. |
 | [seeKnow](https://see-know.ru/) | Powerful OSINT tool for searching breach data and online information. |
 
 
