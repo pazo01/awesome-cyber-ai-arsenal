@@ -433,6 +433,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt-injection detector with multi-layer defense. |
 | [Vigil](https://github.com/deadbits/vigil-llm) | Detect prompt injections, jailbreaks & risky inputs. |
 | [Giskard](https://github.com/Giskard-AI/giskard) | Test & scan ML/LLM models for vulnerabilities & bias. |
+| [PasteGuard](https://github.com/ExtendedUser/pasteguard) | Client-side scanner for secrets and PII before pasting into AI chats. |
 
 ### Uncensored / Local Models
 
