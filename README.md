@@ -332,6 +332,17 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 
 ## 🔵 Defensive Security (Blue Team / DevSecOps)
 
+
+## 🔬 DFIR / Forensics
+
+| Tool | Description |
+| --- | --- |
+| [iLEAPP](https://github.com/abrignoni/iLEAPP) | Extract info and data from iOS/iPadOS devices. |
+| [Volatility 3](https://github.com/volatilityfoundation/volatility3) | Memory forensics framework for RAM dump analysis. |
+
+
+
+
 ### SAST / Code Analysis
 
 | Tool | Description |
