@@ -67,6 +67,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
   - [AI Security Frameworks & Knowledge](#ai-security-frameworks--knowledge)
 - [🕵️ OSINT](#️-osint)
 - [🧰 Utilities / Proxies / HTTP Clients](#-utilities--proxies--http-clients)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 - [📚 Wordlists & Payloads](#-wordlists--payloads)
 - [📖 Frameworks, References & Learning](#-frameworks-references--learning)
 - [🤝 Contributing](#-contributing)
