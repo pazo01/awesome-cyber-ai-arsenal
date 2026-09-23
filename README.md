@@ -339,6 +339,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | --- | --- |
 | [iLEAPP](https://github.com/abrignoni/iLEAPP) | Extract info and data from iOS/iPadOS devices. |
 | [Volatility 3](https://github.com/volatilityfoundation/volatility3) | Memory forensics framework for RAM dump analysis. |
+| [Aleapp](https://github.com/abrignoni/ALEAPP) | Android Logs Events And Protobuf Parser |
 
 
 
