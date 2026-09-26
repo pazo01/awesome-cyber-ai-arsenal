@@ -451,6 +451,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [MITRE ATLAS](https://atlas.mitre.org/) | Adversarial threat matrix for AI/ML systems. |
 | [OWASP Top 10 for LLM Apps](https://genai.owasp.org/) | The standard risk list for LLM applications. |
 | [Local LLMs for pentesting (r/Pentesting)](https://www.reddit.com/r/Pentesting/comments/1snwx8p/local_llms_for_penetration_testing_realworld/) | Community discussion on real-world local-LLM pentest use. |
+| [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Open database of real-world AI agent security incidents since 2025, each record with primary sources and an attack-chain diagram. |
 
 ---
 
