@@ -472,6 +472,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [gitGraber](https://github.com/hisxo/gitGraber) | Monitor GitHub for leaked secrets/tokens. |
 | [Maltego](https://www.maltego.com/) | Link-analysis & graph OSINT platform. |
 | [Hunchly](https://hunch.ly/) | Web-capture tool for OSINT investigations. |
+| [Jev Social](https://github.com/socai-io/jev-social) | Read-only social research app that uses bounded Jev decisions and the local socai CLI to retain source-linked Instagram, TikTok, and LinkedIn evidence. |
 | [IntelX](https://intelx.io/) | Search engine & data archive for OSINT. |
 | [BrixHub](https://brixhub.cc/) | Search engine for finding public information quickly.|
 | [PimEyes](https://pimeyes.com/en) | Face Search And Reverse Image Search Engine. |
