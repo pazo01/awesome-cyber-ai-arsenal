@@ -63,6 +63,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
   - [AI-Powered Offensive Agents](#ai-powered-offensive-agents)
   - [LLM Red Teaming & Vulnerability Scanning](#llm-red-teaming--vulnerability-scanning)
   - [LLM Defense / Guardrails](#llm-defense--guardrails)
+  - [AI-Powered Defensive Security](#ai-powered-defensive-security)
   - [Uncensored / Local Models](#uncensored--local-models)
   - [AI Security Frameworks & Knowledge](#ai-security-frameworks--knowledge)
 - [🕵️ OSINT](#️-osint)
@@ -434,6 +435,12 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt-injection detector with multi-layer defense. |
 | [Vigil](https://github.com/deadbits/vigil-llm) | Detect prompt injections, jailbreaks & risky inputs. |
 | [Giskard](https://github.com/Giskard-AI/giskard) | Test & scan ML/LLM models for vulnerabilities & bias. |
+
+### AI-Powered Defensive Security
+
+| Tool | Description |
+| --- | --- |
+| [JevSec](https://github.com/ccjmcc/jevsec) | Jev-compatible decision-model security triage for short cross-request web behavior, combining deterministic rules with local Qwen3-4B, privacy-aware normalization, and shadow-mode review. |
 
 ### Uncensored / Local Models
 
