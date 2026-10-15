@@ -199,6 +199,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Aghast](https://github.com/owasp-aghast/aghast) | OWASP scanner for common web issues. | 
 | [Caido](https://github.com/caido/caido/tree/main) | A web security platform for auditing and testing web applications efficiently. |
 | [PlayWright](https://github.com/microsoft/playwright) | A framework for automating and testing web applications across all major browsers. |  
+| [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) | Self-hosted web-app scanner with 200 deterministic modules, incl. AI-stack checks (MCP servers, LLM gateways, agent endpoints). |
 
 
 ### Injection — SQL / NoSQL / Command / SSTI / LFI 
