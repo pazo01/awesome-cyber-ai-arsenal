@@ -445,6 +445,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | --- | --- |
 | [heretic](https://github.com/p-e-w/heretic) | Automatic "decensoring" of transformer models. |
 | [Huihui-GLM abliterated](https://huggingface.co/huihui-ai) | Abliterated / uncensored GLM model weights (GGUF). |
+| [Red Team Model Router](https://unst33r.si) | Hosted OpenAI-compatible API serving abliterated and reduced-refusal open models for authorized red-team testing, without local GPU setup. |
 
 ### AI Security Frameworks & Knowledge
 
