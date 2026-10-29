@@ -548,6 +548,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) | Curated Google dorks for exposure discovery. |
 | [cybersecurity-help VDB](https://www.cybersecurity-help.cz/vdb/) | CVE / 0-day vulnerability database. |
 | [InfoSec Write-ups](https://infosecwriteups.com/) | Community bug-bounty & security write-ups. |
+| [ICHI – Internet Cyber Health Index](https://ichi.global) | Free, source-transparent daily barometer of Internet cyber health. Aggregates threat signals from CISA, Krebs, The Hacker News, Bleeping Computer, and SANS ISC. Outside-in directional index — no registration required. Disclosure: submitted by the project's creator. |
 
 ---
 
