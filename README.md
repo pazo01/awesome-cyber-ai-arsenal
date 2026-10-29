@@ -437,6 +437,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt-injection detector with multi-layer defense. |
 | [Vigil](https://github.com/deadbits/vigil-llm) | Detect prompt injections, jailbreaks & risky inputs. |
 | [Giskard](https://github.com/Giskard-AI/giskard) | Test & scan ML/LLM models for vulnerabilities & bias. |
+| [HOL Guard](https://github.com/hashgraph-online/hol-guard) | Scans AI plugin packages and applies local approval gates to supported coding-agent actions before execution. |
 
 ### Uncensored / Local Models
 
