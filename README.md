@@ -419,6 +419,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 
 | Tool | Description |
 | --- | --- |
+| [Prompt Injection Lab](https://github.com/Excession-Labs/prompt-injection-lab) | Tests indirect prompt injection against a tool-using support agent; code and data are MIT licensed. |
 | [garak](https://github.com/NVIDIA/garak) | LLM vulnerability scanner (prompt injection, jailbreaks, leakage) — NVIDIA. |
 | [PyRIT](https://github.com/Azure/PyRIT) | Python Risk Identification Toolkit for generative AI (Microsoft). |
 | [promptfoo](https://github.com/promptfoo/promptfoo) | Test, red-team & evaluate LLM apps (50+ vuln types). |
