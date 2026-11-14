@@ -455,6 +455,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Qwen3.5-VL-397B-A17B-UNCENSORED-JANG_1L](https://huggingface.co/dealignai/Qwen3.5-VL-397B-A17B-UNCENSORED-JANG_1L) | Large uncensored vision-language MoE, 397B/17B active (dealignai). |
 | [penclaw-GLM-5.3-abliterated](https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated) | GLM 5.3 abliterated variant (audnai). |
 | [Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF) | 27B uncensored Qwen, aggressive tune with multi-token prediction, GGUF (HauhauCS). |
+| [InterOdin](https://interodin.com/en) | Hosted, OpenAI-compatible pay-per-token API for Odin v1, an uncensored model for security research; an option when running local weights is not practical. |
 
 ### AI Security Frameworks & Knowledge
 
