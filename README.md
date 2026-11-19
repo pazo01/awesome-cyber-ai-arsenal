@@ -454,6 +454,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Huihui-Kimi-K2.7-Code-abliterated-GGUF](https://huggingface.co/loxxxxx/Huihui-Kimi-K2.7-Code-abliterated-GGUF) | Kimi K2.7 Code abliterated, code-focused — GGUF repack by loxxxxx of a huihui-ai model. |
 | [Qwen3.5-VL-397B-A17B-UNCENSORED-JANG_1L](https://huggingface.co/dealignai/Qwen3.5-VL-397B-A17B-UNCENSORED-JANG_1L) | Large uncensored vision-language MoE, 397B/17B active (dealignai). |
 | [penclaw-GLM-5.3-abliterated](https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated) | GLM 5.3 abliterated variant (audnai). |
+| [GLM-5.3-CYBERSECURITY-FP8](https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8) | GLM 5.3 (753B MoE) with refusals removed for cybersecurity work by a direct weight edit, FP8 (dealignai); also callable as `glm-5.3-cyber-abliterated` on the hosted [AbliteratedLLM](https://abliteratedllm.dev/models/glm-5.3-cyber-abliterated) API. |
 | [Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF) | 27B uncensored Qwen, aggressive tune with multi-token prediction, GGUF (HauhauCS). |
 
 ### AI Security Frameworks & Knowledge
