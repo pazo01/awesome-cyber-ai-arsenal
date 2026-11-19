@@ -489,6 +489,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [BrixHub](https://brixhub.cc/) | Search engine for finding public information quickly.|
 | [PimEyes](https://pimeyes.com/en) | Face Search And Reverse Image Search Engine. |
 | [seeKnow](https://see-know.ru/) | Powerful OSINT tool for searching breach data and online information. |
+| [Whatoblock](https://whatoblock.com/) | IP lookups from a honeypot network showing whether an address was seen scanning, or acting as a botnet, proxy or Tor exit host. |
 
 
 
