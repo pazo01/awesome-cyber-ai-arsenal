@@ -364,6 +364,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find & verify leaked credentials in code/history. |
 | [gitleaks](https://github.com/gitleaks/gitleaks) | Detect hardcoded secrets in git repos. |
 | [S3Scanner](https://github.com/sa7mon/S3Scanner) | Find open/misconfigured S3 buckets. |
+| [VibeShield](https://vibe-checker.appwrite.network/) | Passive web app scanner detecting exposed API keys across client JS chunks (52 rules), missing security headers, and Supabase/Firebase exposure. |
 
 ### Network Vulnerability Management
 
